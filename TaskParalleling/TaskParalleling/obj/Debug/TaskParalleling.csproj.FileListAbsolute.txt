@@ -1,0 +1,7 @@
+D:\C#.NET\TaskParalleling\TaskParalleling\bin\Debug\TaskParalleling.exe.config
+D:\C#.NET\TaskParalleling\TaskParalleling\bin\Debug\TaskParalleling.exe
+D:\C#.NET\TaskParalleling\TaskParalleling\bin\Debug\TaskParalleling.pdb
+D:\C#.NET\TaskParalleling\TaskParalleling\obj\Debug\TaskParalleling.csprojAssemblyReference.cache
+D:\C#.NET\TaskParalleling\TaskParalleling\obj\Debug\TaskParalleling.csproj.CoreCompileInputs.cache
+D:\C#.NET\TaskParalleling\TaskParalleling\obj\Debug\TaskParalleling.exe
+D:\C#.NET\TaskParalleling\TaskParalleling\obj\Debug\TaskParalleling.pdb

@@ -1,0 +1,7 @@
+D:\C#.NET\TaskParallelPractice\TaskParallelPractice\bin\Debug\TaskParallelPractice.exe.config
+D:\C#.NET\TaskParallelPractice\TaskParallelPractice\bin\Debug\TaskParallelPractice.exe
+D:\C#.NET\TaskParallelPractice\TaskParallelPractice\bin\Debug\TaskParallelPractice.pdb
+D:\C#.NET\TaskParallelPractice\TaskParallelPractice\obj\Debug\TaskParallelPractice.csprojAssemblyReference.cache
+D:\C#.NET\TaskParallelPractice\TaskParallelPractice\obj\Debug\TaskParallelPractice.csproj.CoreCompileInputs.cache
+D:\C#.NET\TaskParallelPractice\TaskParallelPractice\obj\Debug\TaskParallelPractice.exe
+D:\C#.NET\TaskParallelPractice\TaskParallelPractice\obj\Debug\TaskParallelPractice.pdb
